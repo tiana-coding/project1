@@ -1,0 +1,1 @@
+g++ -std=c++11 -Wall -Wextra -g3 main.cpp hashtable.cpp menu.cpp hashfunction.cpp -o output/main
